@@ -21,7 +21,7 @@ I-STARLOは、「問題の発見」から「次への目標設定」までの一
 | **L** | Learn | 結果からの教訓 |
 | **O** | Object | 次への目標 |
 
-詳細は [`docs/I-STARLO_Framework.md`](docs/I-STARLO_Framework.md) をご参照ください。
+詳細は Frameworkをご参照ください。
 
 ## 🚫 ライセンスと著作権
 
